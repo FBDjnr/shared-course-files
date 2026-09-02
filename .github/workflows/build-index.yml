@@ -1,0 +1,43 @@
+name: Build file index
+
+# Runs whenever course files change, so the index never has to be rebuilt by hand.
+# Pushes made by this workflow use GITHUB_TOKEN, which by design does not start
+# another workflow run, so committing the index cannot loop.
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "**/index.csv"
+      - "README.md"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-index
+  cancel-in-progress: false
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # The index records the date each file last changed, which needs history.
+          fetch-depth: 0
+
+      - name: Rebuild indexes
+        run: python3 tools/build_index.py
+
+      - name: Commit any changes
+        run: |
+          if [ -z "$(git status --porcelain -- '*index.csv')" ]; then
+            echo "Index already current; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- '*index.csv'
+          git commit -m "Update file index"
+          git push

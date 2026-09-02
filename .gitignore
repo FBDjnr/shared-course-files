@@ -1,0 +1,13 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary output from the index builder
+*.csv.check

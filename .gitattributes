@@ -1,0 +1,18 @@
+# Keep shared data files byte-identical for everyone who downloads them, rather
+# than letting Git rewrite line endings per platform.
+* text=auto eol=lf
+*.csv text eol=lf
+*.tsv text eol=lf
+*.txt text eol=lf
+
+# Anything below is data, never text to be converted.
+*.xlsx binary
+*.xls  binary
+*.rds  binary
+*.rdata binary
+*.sav  binary
+*.dta  binary
+*.zip  binary
+*.pdf  binary
+*.png  binary
+*.jpg  binary
