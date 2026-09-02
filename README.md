@@ -68,6 +68,19 @@ python tools/build_index.py
 Add `--check` to test whether they are current without writing anything, which is
 useful before pushing.
 
+## After you push, allow five minutes
+
+Raw URLs are served through a cache with `max-age=300`. For up to five minutes
+after a file changes, the old contents can still come back. Nothing is wrong; wait
+and read again.
+
+This matters most when correcting a file mid-class. If people need the new version
+immediately, adding a query string defeats the cache:
+
+```r
+d <- read.csv(paste0(url, "?v=", as.integer(Sys.time())))
+```
+
 ## Notes
 
 Files here are readable by anyone with the address, since a public repository is
