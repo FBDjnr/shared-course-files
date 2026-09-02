@@ -8,14 +8,14 @@ straight from a URL without downloading anything first.
 Every file has a **raw** URL that returns its contents directly. In R:
 
 ```r
-scores <- read.csv("https://raw.githubusercontent.com/OWNER/REPO/main/msbr70200/example.csv")
+scores <- read.csv("https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/example.csv")
 ```
 
 In Python:
 
 ```python
 import pandas as pd
-scores = pd.read_csv("https://raw.githubusercontent.com/OWNER/REPO/main/msbr70200/example.csv")
+scores = pd.read_csv("https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/example.csv")
 ```
 
 Use the `raw.githubusercontent.com` address, not the `github.com/.../blob/...` one
@@ -29,7 +29,7 @@ the data.
 CSV, so you can read it the same way:
 
 ```r
-files <- read.csv("https://raw.githubusercontent.com/OWNER/REPO/main/index.csv")
+files <- read.csv("https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/index.csv")
 
 # Everything available for one course
 subset(files, course == "msbr70200")
