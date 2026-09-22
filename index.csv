@@ -1,13 +1,13 @@
 course,file,path,type,bytes,updated,url
-msbr70200,checkout_ab.csv,msbr70200/checkout_ab.csv,csv,40216,,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/checkout_ab.csv
+msbr70200,checkout_ab.csv,msbr70200/checkout_ab.csv,csv,40216,2026-09-22,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/checkout_ab.csv
 msbr70200,customers.csv,msbr70200/customers.csv,csv,408416,2026-09-02,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/customers.csv
 msbr70200,example.csv,msbr70200/example.csv,csv,71,2026-09-02,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/example.csv
-msbr70200,homepage_sessions.csv,msbr70200/homepage_sessions.csv,csv,1861,,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/homepage_sessions.csv
+msbr70200,homepage_sessions.csv,msbr70200/homepage_sessions.csv,csv,1861,2026-09-22,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/homepage_sessions.csv
 msbr70200,meridian_tickets.csv,msbr70200/meridian_tickets.csv,csv,15743,2026-09-15,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/meridian_tickets.csv
 msbr70200,midterm_practice_orders.csv,msbr70200/midterm_practice_orders.csv,csv,9623,2026-09-08,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/midterm_practice_orders.csv
 msbr70200,movie_releases.csv,msbr70200/movie_releases.csv,csv,1849,2026-09-17,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/movie_releases.csv
 msbr70200,pitch_speeds.csv,msbr70200/pitch_speeds.csv,csv,403,2026-09-17,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/pitch_speeds.csv
 msbr70200,sales_salaries.csv,msbr70200/sales_salaries.csv,csv,1227,2026-09-07,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/sales_salaries.csv
-msbr70200,skate_speeds.csv,msbr70200/skate_speeds.csv,csv,1894,,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/skate_speeds.csv
+msbr70200,skate_speeds.csv,msbr70200/skate_speeds.csv,csv,1894,2026-09-22,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/skate_speeds.csv
 msbr70200,streambox_hours.csv,msbr70200/streambox_hours.csv,csv,456,2026-09-17,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/streambox_hours.csv
 msbr70201,syllabus data.csv,msbr70201/syllabus data.csv,csv,58,2026-09-02,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70201/syllabus%20data.csv
