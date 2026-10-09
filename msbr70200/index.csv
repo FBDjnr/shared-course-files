@@ -3,6 +3,15 @@ msbr70200,checkout_ab.csv,msbr70200/checkout_ab.csv,csv,40216,2026-09-22,https:/
 msbr70200,customers.csv,msbr70200/customers.csv,csv,408416,2026-09-02,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/customers.csv
 msbr70200,example.csv,msbr70200/example.csv,csv,71,2026-09-02,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/example.csv
 msbr70200,game_day_sales_va.csv,msbr70200/game_day_sales_va.csv,csv,470,2026-10-08,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/game_day_sales_va.csv
+msbr70200,game_day_sales_vb.csv,msbr70200/game_day_sales_vb.csv,csv,421,,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/game_day_sales_vb.csv
+msbr70200,game_day_sales_vc.csv,msbr70200/game_day_sales_vc.csv,csv,461,,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/game_day_sales_vc.csv
+msbr70200,game_day_sales_vd.csv,msbr70200/game_day_sales_vd.csv,csv,473,,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/game_day_sales_vd.csv
+msbr70200,game_day_sales_ve.csv,msbr70200/game_day_sales_ve.csv,csv,480,,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/game_day_sales_ve.csv
+msbr70200,game_day_sales_vf.csv,msbr70200/game_day_sales_vf.csv,csv,395,,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/game_day_sales_vf.csv
+msbr70200,game_day_sales_vg.csv,msbr70200/game_day_sales_vg.csv,csv,369,,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/game_day_sales_vg.csv
+msbr70200,game_day_sales_vh.csv,msbr70200/game_day_sales_vh.csv,csv,494,,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/game_day_sales_vh.csv
+msbr70200,game_day_sales_vi.csv,msbr70200/game_day_sales_vi.csv,csv,395,,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/game_day_sales_vi.csv
+msbr70200,game_day_sales_vj.csv,msbr70200/game_day_sales_vj.csv,csv,439,,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/game_day_sales_vj.csv
 msbr70200,homepage_sessions.csv,msbr70200/homepage_sessions.csv,csv,1861,2026-09-22,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/homepage_sessions.csv
 msbr70200,housing_prices.csv,msbr70200/housing_prices.csv,csv,535,2026-09-28,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/housing_prices.csv
 msbr70200,loyalty_spend_va.csv,msbr70200/loyalty_spend_va.csv,csv,1400,2026-10-08,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/loyalty_spend_va.csv
