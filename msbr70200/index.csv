@@ -2,7 +2,7 @@ course,file,path,type,bytes,updated,url
 msbr70200,checkout_ab.csv,msbr70200/checkout_ab.csv,csv,40216,2026-09-22,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/checkout_ab.csv
 msbr70200,customers.csv,msbr70200/customers.csv,csv,408416,2026-09-02,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/customers.csv
 msbr70200,example.csv,msbr70200/example.csv,csv,71,2026-09-02,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/example.csv
-msbr70200,game_day_sales_va.csv,msbr70200/game_day_sales_va.csv,csv,442,2026-10-08,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/game_day_sales_va.csv
+msbr70200,game_day_sales_va.csv,msbr70200/game_day_sales_va.csv,csv,470,2026-10-08,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/game_day_sales_va.csv
 msbr70200,homepage_sessions.csv,msbr70200/homepage_sessions.csv,csv,1861,2026-09-22,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/homepage_sessions.csv
 msbr70200,housing_prices.csv,msbr70200/housing_prices.csv,csv,535,2026-09-28,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/housing_prices.csv
 msbr70200,loyalty_spend_va.csv,msbr70200/loyalty_spend_va.csv,csv,1400,2026-10-08,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/loyalty_spend_va.csv
@@ -17,7 +17,6 @@ msbr70200,loyalty_spend_vi.csv,msbr70200/loyalty_spend_vi.csv,csv,1321,2026-10-0
 msbr70200,loyalty_spend_vj.csv,msbr70200/loyalty_spend_vj.csv,csv,1652,2026-10-08,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/loyalty_spend_vj.csv
 msbr70200,meridian_tickets.csv,msbr70200/meridian_tickets.csv,csv,15743,2026-09-15,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/meridian_tickets.csv
 msbr70200,midterm_practice_orders.csv,msbr70200/midterm_practice_orders.csv,csv,9623,2026-09-08,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/midterm_practice_orders.csv
-msbr70200,mlb_attendance_va.csv,msbr70200/mlb_attendance_va.csv,csv,426,2026-10-08,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/mlb_attendance_va.csv
 msbr70200,movie_budgets_va.csv,msbr70200/movie_budgets_va.csv,csv,237,2026-10-08,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/movie_budgets_va.csv
 msbr70200,movie_budgets_vb.csv,msbr70200/movie_budgets_vb.csv,csv,311,2026-10-08,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/movie_budgets_vb.csv
 msbr70200,movie_budgets_vc.csv,msbr70200/movie_budgets_vc.csv,csv,372,2026-10-08,https://raw.githubusercontent.com/FBDjnr/shared-course-files/main/msbr70200/movie_budgets_vc.csv
